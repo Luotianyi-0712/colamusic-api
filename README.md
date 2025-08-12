@@ -60,7 +60,7 @@ GET /metrics   # 性能指标
 ## 🛠️ 安装运行
 
 ```bash
-cd colamusic-main
+cd colamusic-api
 npm install
 npm start
 ```
